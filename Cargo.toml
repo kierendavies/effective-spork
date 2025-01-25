@@ -1,0 +1,8 @@
+[package]
+name = "effective-spork"
+version = "0.1.0"
+authors = ["Kieren Davies"]
+edition = "2021"
+publish = false
+
+[dependencies]
